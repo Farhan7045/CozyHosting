@@ -1,0 +1,2 @@
+# CozyHosting
+Walkthrough for CozyHosting
